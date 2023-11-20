@@ -1,2 +1,2 @@
 # Python-algorithms
-Python algorithms that I have studied over time.
+Algorithms that I have studied over time with Python.

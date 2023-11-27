@@ -14,7 +14,7 @@ target_sum = 9
 
 
 def twoSum(numbers, target_sum):
-    alreadyChecked = {} # valeu : index
+    alreadyChecked = {} # value : index
     for i, n in enumerate(numbers):
         diff = target_sum - n
         if diff in alreadyChecked:

@@ -2,7 +2,7 @@
 # I created a function that compares the reverse of the string with the string itself and returns "true" if they are equal or "false" if they are different.
 
 # Time: O(n)
-# Space: O(1)
+# Memory: O(1)
 
 
 def isAlphaNum(c):

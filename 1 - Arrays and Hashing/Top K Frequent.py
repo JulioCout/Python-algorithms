@@ -4,7 +4,7 @@
 
 
 # Time: O(n).
-# Space: O(n).
+# Memory: O(n).
 
 
 listofNumbers = [1,1,1,2,2,3]

@@ -3,7 +3,7 @@
 # Then i compare if the two hash maps are equal or not.
 
 # Time: O(n)
-# Space: O(n)
+# Memory: O(n)
 
 firstWord = "anagram"
 secondWord = "margana"

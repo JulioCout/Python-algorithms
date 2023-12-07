@@ -1,7 +1,7 @@
 # Finding three elements in the array that when summed the result is 0.
 
-# time: O(n²)
-# space: O(1) || O(n) depending on the sorting method.
+# Time: O(n²)
+# Memory: O(1) || O(n) depending on the sorting method.
 
 listToCheck = [-1,0,1,2,-1,-4]
 

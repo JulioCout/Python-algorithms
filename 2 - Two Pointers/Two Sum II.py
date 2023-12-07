@@ -3,7 +3,7 @@
 # This solution help to improve the time effincecy.
 
 # Time: O(n)
-# Space: O(n)
+# Memory: O(n)
 
 listOfNumbers = [1, 3, 4, 5, 7, 11]
 targetToFind = 9

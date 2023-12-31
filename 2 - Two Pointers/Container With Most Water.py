@@ -1,7 +1,7 @@
-#
+# Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
-#
-#
+# Time: O(n)
+# Memory: O(n)
 
 height_list = [1,8,6,2,5,4,8,3,7]
 
